@@ -1,0 +1,16 @@
+feature,importance
+categorical__Sex_male,2.6211990300119807
+categorical__Sex_female,2.6110451892626023
+categorical__Title_Mr,1.8609553928425726
+categorical__Title_Miss,1.354444530339826
+categorical__Title_Mrs,1.1862344385836239
+categorical__Title_Master,0.49363404428861674
+categorical__Title_Rare,0.19624337254163995
+categorical__Embarked_Q,0.1408638181627872
+numeric__IsAlone,0.13622800495312412
+categorical__Embarked_S,0.10207966889465928
+numeric__Fare,0.0794185435498938
+numeric__SibSp,0.06801166411451852
+numeric__Pclass,0.06213937787892329
+categorical__Embarked_C,0.04893799001750664
+categorical__CabinPresent_No,0.0376949721174777
