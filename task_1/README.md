@@ -85,6 +85,18 @@ You can also open and run the notebook:
 iris_classification.ipynb
 ```
 
+## Interactive Website
+
+Install the website dependencies and start the Streamlit application:
+
+```bash
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+```
+
+The website lets users change all four flower measurements, view the predicted
+species and class probabilities, and compare the input with the Iris dataset.
+
 ## Example Inference
 
 ```python
